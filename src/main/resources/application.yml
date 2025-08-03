@@ -1,3 +1,7 @@
 spring:
   application:
     name: user-service
+  r2dbc:
+    url: jdbc:mysql://localhost:3306/webflux_practice
+    username: root
+    password: admin123
