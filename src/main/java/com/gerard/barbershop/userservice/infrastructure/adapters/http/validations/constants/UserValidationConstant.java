@@ -1,4 +1,4 @@
-package com.gerard.barbershop.userservice.infrastructure.http.validations.constants;
+package com.gerard.barbershop.userservice.infrastructure.adapters.http.validations.constants;
 
 public class UserValidationConstant {
 

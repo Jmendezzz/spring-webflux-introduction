@@ -1,6 +1,6 @@
-package com.gerard.barbershop.userservice.infrastructure.http.dtos.request;
+package com.gerard.barbershop.userservice.infrastructure.adapters.http.dtos.request;
 
-import com.gerard.barbershop.userservice.infrastructure.http.validations.constants.UserValidationConstant;
+import com.gerard.barbershop.userservice.infrastructure.adapters.http.validations.constants.UserValidationConstant;
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.Pattern;

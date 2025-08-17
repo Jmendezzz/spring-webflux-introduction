@@ -1,4 +1,4 @@
-package com.gerard.barbershop.userservice.infrastructure.http.dtos.response;
+package com.gerard.barbershop.userservice.infrastructure.adapters.http.dtos.response;
 
 public record UserResponseDto(
         Long id,

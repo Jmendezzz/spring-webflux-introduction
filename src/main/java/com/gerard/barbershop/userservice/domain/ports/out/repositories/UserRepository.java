@@ -1,4 +1,4 @@
-package com.gerard.barbershop.userservice.domain.ports.out;
+package com.gerard.barbershop.userservice.domain.ports.out.repositories;
 
 import com.gerard.barbershop.userservice.domain.models.User;
 import reactor.core.publisher.Mono;

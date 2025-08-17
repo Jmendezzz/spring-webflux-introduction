@@ -1,4 +1,4 @@
-package com.gerard.barbershop.userservice.infrastructure.http.exceptions;
+package com.gerard.barbershop.userservice.infrastructure.adapters.http.exceptions;
 
 import java.time.Instant;
 

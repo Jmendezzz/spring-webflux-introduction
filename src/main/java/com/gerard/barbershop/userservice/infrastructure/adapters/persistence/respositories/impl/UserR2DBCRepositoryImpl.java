@@ -1,10 +1,10 @@
-package com.gerard.barbershop.userservice.infrastructure.persistence.respositories.impl;
+package com.gerard.barbershop.userservice.infrastructure.adapters.persistence.respositories.impl;
 
 import com.gerard.barbershop.userservice.domain.models.User;
 import com.gerard.barbershop.userservice.domain.ports.out.repositories.UserRepository;
-import com.gerard.barbershop.userservice.infrastructure.persistence.entities.UserEntity;
-import com.gerard.barbershop.userservice.infrastructure.persistence.respositories.UserReactiveRepository;
-import com.gerard.barbershop.userservice.infrastructure.persistence.respositories.mappers.UserEntityMapper;
+import com.gerard.barbershop.userservice.infrastructure.adapters.persistence.entities.UserEntity;
+import com.gerard.barbershop.userservice.infrastructure.adapters.persistence.respositories.UserReactiveRepository;
+import com.gerard.barbershop.userservice.infrastructure.adapters.persistence.respositories.mappers.UserEntityMapper;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Repository;

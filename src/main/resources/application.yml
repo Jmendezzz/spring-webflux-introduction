@@ -9,3 +9,8 @@ spring:
     init:
       mode: always
       schema-locations: classpath:schema.sql
+
+aws:
+  region: us-east-1
+  sns:
+    topicArn: arn:aws:sns:us-east-1:000000000000:user-created-topic

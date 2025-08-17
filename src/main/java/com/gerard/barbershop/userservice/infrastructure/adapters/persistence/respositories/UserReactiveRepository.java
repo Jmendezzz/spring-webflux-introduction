@@ -1,6 +1,6 @@
-package com.gerard.barbershop.userservice.infrastructure.persistence.respositories;
+package com.gerard.barbershop.userservice.infrastructure.adapters.persistence.respositories;
 
-import com.gerard.barbershop.userservice.infrastructure.persistence.entities.UserEntity;
+import com.gerard.barbershop.userservice.infrastructure.adapters.persistence.entities.UserEntity;
 import org.springframework.data.repository.reactive.ReactiveCrudRepository;
 import reactor.core.publisher.Mono;
 

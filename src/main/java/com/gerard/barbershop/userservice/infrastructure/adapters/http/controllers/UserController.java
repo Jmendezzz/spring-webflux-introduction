@@ -1,10 +1,10 @@
-package com.gerard.barbershop.userservice.infrastructure.http.controllers;
+package com.gerard.barbershop.userservice.infrastructure.adapters.http.controllers;
 
 import com.gerard.barbershop.userservice.application.commands.CreateUserCommand;
 import com.gerard.barbershop.userservice.application.usecases.CreateUserUseCase;
-import com.gerard.barbershop.userservice.infrastructure.http.dtos.mapper.UserDtoMapper;
-import com.gerard.barbershop.userservice.infrastructure.http.dtos.request.CreateUserRequestDto;
-import com.gerard.barbershop.userservice.infrastructure.http.dtos.response.UserResponseDto;
+import com.gerard.barbershop.userservice.infrastructure.adapters.http.dtos.mapper.UserDtoMapper;
+import com.gerard.barbershop.userservice.infrastructure.adapters.http.dtos.request.CreateUserRequestDto;
+import com.gerard.barbershop.userservice.infrastructure.adapters.http.dtos.response.UserResponseDto;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

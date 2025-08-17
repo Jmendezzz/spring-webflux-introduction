@@ -1,4 +1,4 @@
-package com.gerard.barbershop.userservice.infrastructure.http.controllers;
+package com.gerard.barbershop.userservice.infrastructure.adapters.http.controllers;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

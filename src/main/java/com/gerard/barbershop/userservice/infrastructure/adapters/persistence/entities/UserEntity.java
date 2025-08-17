@@ -1,4 +1,4 @@
-package com.gerard.barbershop.userservice.infrastructure.persistence.entities;
+package com.gerard.barbershop.userservice.infrastructure.adapters.persistence.entities;
 
 import lombok.Data;
 import org.springframework.data.annotation.Id;
