@@ -1,7 +1,7 @@
 package com.gerard.barbershop.userservice.infrastructure.persistence.respositories.impl;
 
 import com.gerard.barbershop.userservice.domain.models.User;
-import com.gerard.barbershop.userservice.domain.ports.out.UserRepository;
+import com.gerard.barbershop.userservice.domain.ports.out.repositories.UserRepository;
 import com.gerard.barbershop.userservice.infrastructure.persistence.entities.UserEntity;
 import com.gerard.barbershop.userservice.infrastructure.persistence.respositories.UserReactiveRepository;
 import com.gerard.barbershop.userservice.infrastructure.persistence.respositories.mappers.UserEntityMapper;
